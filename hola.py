@@ -1,5 +1,5 @@
 print "hola  undo git"
 
-nombre = "denis duron"
+nombre = "Cecilia Duron"
 
-print "nombre"
+print nombre
